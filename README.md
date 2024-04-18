@@ -14,7 +14,7 @@ then download it locally
 ## Examples and Demonstrations
 Here are some examples and demonstrations of the enhancements made to this portfolio:
 ![Resume](https://github.com/Turabayo/Portfolio/assets/113357634/b9c1601d-9d14-404a-a0bb-6fee469dfe98)
-[service](https://github.com/Turabayo/Portfolio/assets/113357634/95ab96ec-e2d4-48a6-a6a3-206649b7991b)
+![service](https://github.com/Turabayo/Portfolio/assets/113357634/95ab96ec-e2d4-48a6-a6a3-206649b7991b)
 
 ## Accessibility Considerations
 This portfolio is designed to be accessible to all users.
